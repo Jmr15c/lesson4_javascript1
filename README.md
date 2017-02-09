@@ -13,7 +13,7 @@ Jade Reppenhagen
 In this assignment, the users understanding of javaScript was tested as a simple expense calculator was created. This assignemtn required the student to add too and edit an esisting program in order to ensure its proper function.
 
 ### View Project:
-https://jmr15c.github.io/lesson4_javascript1/index.html
+https://jmr15c.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
 1. The best way to name variables in javaScript is to make them consice, however descriptive. Simply using random letters to identify different variables makes the code hard for others to understand, and can lead to the mis-use or swapping of accidental variables. Similarly, having very lengthy names impairs a user ability to easily follow along with what is happening in the code.
